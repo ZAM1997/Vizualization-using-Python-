@@ -20,4 +20,4 @@
 * **Box Plot**
 * **Line Plot**
 * **Bar graph - Flagging the higgest result**
-* **Stacked Bar Graph**
+* **Scatter Plot**
